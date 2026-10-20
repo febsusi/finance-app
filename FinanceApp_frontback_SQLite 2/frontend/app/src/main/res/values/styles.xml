@@ -1,6 +1,0 @@
-<resources>
-    <style name="Theme.FinanceApp" parent="android:style/Theme.Material.Light.NoActionBar">
-        <item name="android:fontFamily">sans</item>
-        <item name="android:colorAccent">#6B4EFF</item>
-    </style>
-</resources>
